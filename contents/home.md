@@ -1,13 +1,13 @@
 
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
+Meet Johnathan Fitzgerald, working for the Nature Conservation Initiative. Traveling the World and keeping up with the current issues around the world.
 
 #### Email
-sli[at]cumt.edu.cn
+Johnathan_fitzgerald[at]gmail.com
 
-#### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
+#### Current Projects
+Ongoing - Workings in Kenya
 
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
+Ongoing - Workings in Tanzania
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Wildlife ecology and behaviour, Conservation biology, Habitat restoration and management, Human-wildlife conflict resolution
