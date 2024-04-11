@@ -1,8 +1,8 @@
 
-Meet Johnathan Fitzgerald, working for the Nature Conservation Initiative. Traveling the World and keeping up with the current issues around the world.
+Meet Jonathan Fitzgerald, working for the Nature Conservation Initiative. Traveling the World and keeping up with the current issues around the world.
 
 #### Email
-Johnathan_fitzgerald[at]gmail.com
+Jonathan_fitzgerald[at]gmail.com
 
 #### Current Projects
 Ongoing - Workings in Kenya
