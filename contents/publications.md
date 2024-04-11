@@ -1,8 +1,8 @@
 
-- <strong>S. Li</strong>, X. Yang, A. Cao, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A foundational deep learning model for earthquake monitoring tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>J. Fitzgerald </strong>, L. Ngyuen, A. Garcia, C. Morgan, Y. Nkosi, Y. Okeke, and Q. Diop (2019). <strong> On the precipice of loosing Natures Natural habitats</strong>
 
-- A. Cao, X. Yang, C. Wang, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-precision phase picking and automatic source locating method for seismicity in mines based on deep transfer learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- Y. Nkosi, X. Mitchell, C. Morgan, <strong>J. Fitzgerald </strong>, L. Nguyen, and Q. Diop (2022). Safeguarding Africa's Natural Heritage: Conservation Strategies for a Sustainable Future.
 
-- A. Cao, Y. Liu, X. Yang, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical index and Data Fusion-Driven method for coal burst prediction in time sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- A. Garcia, Y. Nkosi, <strong>J. Fitzgerald</strong> and C. Morgan (2023). Exploring seismic patterns and their impact on Cattle and Farmland in West Africa.
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: battery-free localization base station for coal mine environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Y. Nkosi, X. Mitchell, C. Morgan, <strong>J. Fitzgerald</strong>, L. Nguyen and Q. Diop (2023). Farmstead interactions among common animals in savannahs.
